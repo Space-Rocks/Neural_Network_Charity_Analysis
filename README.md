@@ -30,5 +30,9 @@ The purpose of this analysis is to predict the success of applicants that have r
 
 ## 3. Summary
 
-Overall,
+Overall, after data pre-processing followed by defining, compiling, training, and optimizing the neural network classification model, the best model accuracy achieved was 0.73 as illustrated below:
+
+![BestModel](images/BestModel.PNG)
+
+An alternative approach to the neural network classification model explored here could involve the use of a logistic regression model to predict applicant success. This type of approach could be beneficial for this assessment as logistic regression models are suited to binary classification and instances where there are many predictor features (as is the case in this analysis).
 
